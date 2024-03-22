@@ -1,8 +1,8 @@
 # Porfolio CODSOFT
-# portfolio Project
+# Portfolio Project
 ![Portfolio](portfolio.png)
 
-Visit here: [Website Visit]()
+Visit here: [Website Visit](https://talhacodelab97.github.io/Codsoft-intern-Portfolio.io/)
 
 Welcome to the Portfolio repository! This is a simple yet effective Portfolio designed to help you understand the basics of web development.
 
